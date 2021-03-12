@@ -10,7 +10,7 @@
   - [x] User can click a “Compose” icon in the Action Bar on the top right
   - [x] User can then enter a new tweet and post this to twitter
   - [x] User is taken back to home timeline with **new tweet visible** in timeline
-  - [x] Newly created tweet can be manually inserted into the timeline and diesn't rely on a full refresh
+  - [x] Newly created tweet can be manually inserted into the timeline and don't rely on a full refresh
   - [x] User can **see a counter with total number of characters left for tweet** on compose tweet page
   - [x] User can click links in tweets launch the web browser 
   - [x] User can **sign in to Twitter** using OAuth login
@@ -21,7 +21,7 @@
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Walkthrough of implemented user stories:
 
 <img src='SimpleTweet2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
